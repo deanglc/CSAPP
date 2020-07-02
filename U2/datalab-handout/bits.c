@@ -143,10 +143,12 @@ NOTES:
  *   Rating: 1
  */
 int bitXor(int x, int y) {
-    int a = x & y;
-    int b = ~x & ~y;
-    int z = ~a & ~b;
-    return z;
+    //不进位的二进制加法	
+    //int a = x & y;
+    //    //int b = ~x & ~y;
+    //        //int z = ~a & ~b;
+    //            //return z;
+    return ~(~x & ~y) & ~(x & y);
 }
 /* 
  * tmin - return minimum two's complement integer 
