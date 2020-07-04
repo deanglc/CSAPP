@@ -2,7 +2,7 @@
 但是在以往的工作经验里，除了源码很少涉及这些内容。
 所以我安慰自己，做不出来没事的😂 
 
-DATALAB版本-[Updated 12/16/19]
+DATALAB版本-[Updated 12/16/19](http://www.hh-yzm.com/index.php/archives/6 || https://zhuanlan.zhihu.com/p/82529114)
 
 同时我也收集了部分以前版本的题目
 
